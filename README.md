@@ -25,7 +25,7 @@ The video used in the project can be downloaded [here](https://www.pexels.com/vi
 
 At the end of the execution you will have the processed file `cars_processed.mp4` in the `video` folder. Here it is shown a frame of the video in which it is appreciated the detection and text read of plates.
 
-![Ejemplo de imagen](im/cars.JPG)
+![Ejemplo de imagen](im/cars.jpg)
 
 
 
