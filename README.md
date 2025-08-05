@@ -23,7 +23,7 @@ pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1
 
 The video used in the project can be downloaded [here](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/), name the file `cars.mp4` and put it in a folder named `video`. Name the file of your custom plate license detector as `plate_detector.pt` and put it in a folder named `model`. Finally, clone the SORT repository in the root of the project. 
 
-At the end of the execution you will have the processed file `cars_processed.mp4` in the `video` folder. Here it is shown a frame of the video in which it is appreciated the detection and text read of plates.
+At the end of the execution you will have the processed file `cars_processed.mp4` in the `video` folder. In this repository is included a fragment of the processed video. Below you can appreciate a single frame.
 
 ![Ejemplo de imagen](im/cars.jpg)
 
