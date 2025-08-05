@@ -1,6 +1,6 @@
 # Plate-License-Reading-In-Video-Using-YOLOv8
 
-In this repository is implemmented the plate license reading project by [Computer Vision Engineer](https://youtu.be/fyJB1t0o0ms?si=wuu3bamSpUVoOi60) in a Jupyter notebook. In it is used YOLOv8 nano to detect cars, YOLOv8 custom plate lincense detector implemented in a previous repository (https://github.com/GerardoRodriguezB/License-Plate-Detector-Using-YOLOv8), EasyOCR (https://github.com/JaidedAI/EasyOCR) to read the plates, and SORT for tracking the cars (https://github.com/abewley/sort).
+In this repository is implemmented the plate license reading project by [Computer Vision Engineer](https://youtu.be/fyJB1t0o0ms?si=wuu3bamSpUVoOi60) in a Jupyter notebook. In it is used YOLOv8 nano to detect cars, YOLOv8 custom plate lincense detector implemented in a previous [repository](https://github.com/GerardoRodriguezB/License-Plate-Detector-Using-YOLOv8), [EasyOCR](https://github.com/JaidedAI/EasyOCR) to read the plates, and [SORT](https://github.com/abewley/sort) for tracking the cars.
 
 
 You can use the same Anaconda environment created in the [plate detector](https://github.com/GerardoRodriguezB/License-Plate-Detector-Using-YOLOv8) repository. Install the requirements
