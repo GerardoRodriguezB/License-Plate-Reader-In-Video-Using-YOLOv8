@@ -1,4 +1,4 @@
-# License-Plate-Reading-In-Video-Using-YOLOv8
+# License-Plate-Reader-In-Video-Using-YOLOv8
 
 In this repository is implemmented the license plate  reading project by [Computer Vision Engineer](https://youtu.be/fyJB1t0o0ms?si=wuu3bamSpUVoOi60) in a Jupyter notebook. 
 
